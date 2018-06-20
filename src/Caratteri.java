@@ -25,13 +25,10 @@ if(arr[i].length()<arr[j].length()){
     arr[i]=arr[j];
 
 }
-
-
-            }
+           }
             System.out.println("El caracter mas largo es: "+arr[i]);
            break;
         }
-
 }
 
 }
